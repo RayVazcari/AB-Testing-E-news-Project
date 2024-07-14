@@ -1,6 +1,6 @@
 <h1><center><font size=10>Data Science and Business Analytics</center></font></h1>
-<h1><center>Project 2 - Business Statistics: E-news Express</center></h1>
-<h1><center>Jorge Ramon Vazquez Campero</center></h1>
+<center>Project 2 - Business Statistics: E-news Express</center></h1><p
+<center>Jorge Ramon Vazquez Campero</center></h1>
 
 **`| Hypothesis Testing | A/B Testing | Data Visualization | Statistical Inference | Exploratory Data Analysis | Variable Identification | Univariate Analysis | Bi-Variate Analysis | Advanced Python techniques | Insights Generation |`**
 
