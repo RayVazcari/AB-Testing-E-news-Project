@@ -4,7 +4,7 @@
 
 **`| Hypothesis Testing | A/B Testing | Data Visualization | Statistical Inference | Exploratory Data Analysis | Variable Identification | Univariate Analysis | Bi-Variate Analysis | Advanced Python techniques | Insights Generation |`**
 
-This project involved performing an in-depth Exploratory Data Analysis (EDA) on the E-News Express dataset. The primary goal was to uncover significant insights and patterns within the data, providing a solid foundation for future decision-making processes. Through this project, I enhanced my skills in data cleaning, statistical analysis, and data visualization, employing various Python libraries to achieve these tasks. This experience has further solidified my passion for data science and my ability to draw meaningful conclusions from complex data sets. I look forward to leveraging these insights to drive impactful business solutions. 🚀
+This project used statistical analysis, A/B testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers. The simulated dataset includes important metrics such as conversion status and time spent on the page, which help in concluding the effectiveness of the new landing page. Additionally, the dependence of conversion on the preferred language is analyzed in this project. This experience has further solidified my passion for data science and my ability to draw meaningful conclusions from complex data sets. I look forward to leveraging these insights to drive impactful business solutions. 🚀
 
    <p align="left"> 
      <a href="https://github.com/RayVazcari?tab=followers">
