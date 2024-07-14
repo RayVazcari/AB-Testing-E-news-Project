@@ -30,6 +30,11 @@ This project involved performing an in-depth Exploratory Data Analysis (EDA) on 
 
 <br />
 
+---
+
+<center><img src="https://vignette.wikia.nocookie.net/logopedia/images/1/18/E!_News_2012_Logo.png/revision/latest?cb=20161004214546" width="600" height="300"></center>
+
+<br />
 
 ---
 
