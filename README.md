@@ -2,10 +2,10 @@
 
 <img src="assets/banner.svg" alt="Project 02: E-News A/B Test" width="100%" />
 
-<a href="https://github.com/RayVazcari"><img src="https://img.shields.io/badge/PORTFOLIO-RayVazcari-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/PYTHON-07070f?style=for-the-badge&logo=python&logoColor=f9f002" alt="Python" />
-<img src="https://img.shields.io/badge/JUPYTER-07070f?style=for-the-badge&logo=jupyter&logoColor=ff2a6d" alt="Jupyter" />
+<a href="https://github.com/RayVazcari"><img src="https://img.shields.io/badge/PORTFOLIO-RayVazcari-5ad7ff?style=for-the-badge&logo=github&logoColor=050a11&labelColor=0b1826" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0b1826?style=for-the-badge&logo=linkedin&logoColor=5ad7ff&labelColor=0b1826&color=0b1826" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/PYTHON-0b1826?style=for-the-badge&logo=python&logoColor=ffb347&labelColor=0b1826" alt="Python" />
+<img src="https://img.shields.io/badge/JUPYTER-0b1826?style=for-the-badge&logo=jupyter&logoColor=5ad7ff&labelColor=0b1826" alt="Jupyter" />
 
 </div>
 
