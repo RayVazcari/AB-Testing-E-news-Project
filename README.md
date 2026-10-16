@@ -1,18 +1,17 @@
-<h1><center><font size=10>Data Science and Business Analytics</center></font></h1>
-<center>Project 2 - Business Statistics: E-news Express</center></h1><p
-<center>Jorge Ramon Vazquez Campero</center></h1>
+<div align="center">
+
+<img src="assets/banner.svg" alt="Project 02: E-News A/B Test" width="100%" />
+
+<a href="https://github.com/RayVazcari"><img src="https://img.shields.io/badge/PORTFOLIO-RayVazcari-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/PYTHON-07070f?style=for-the-badge&logo=python&logoColor=f9f002" alt="Python" />
+<img src="https://img.shields.io/badge/JUPYTER-07070f?style=for-the-badge&logo=jupyter&logoColor=ff2a6d" alt="Jupyter" />
+
+</div>
 
 **`| Hypothesis Testing | A/B Testing | Data Visualization | Statistical Inference | Exploratory Data Analysis | Variable Identification | Univariate Analysis | Bi-Variate Analysis | Advanced Python techniques | Insights Generation |`**
 
 This project used statistical analysis, A/B testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers. The simulated dataset includes important metrics such as conversion status and time spent on the page, which help in concluding the effectiveness of the new landing page. Additionally, the dependence of conversion on the preferred language is analyzed in this project. This experience has further solidified my passion for data science and my ability to draw meaningful conclusions from complex data sets. I look forward to leveraging these insights to drive impactful business solutions. 🚀
-
-   <p align="left"> 
-     <a href="https://github.com/RayVazcari?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RayVazcari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow me on Github &logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/rayvazcari/">
-         <img alt="Linkedin Profile" title="Likedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
-      </a>
-</p>
 
 ---
 
